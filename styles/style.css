@@ -1,6 +1,7 @@
 /* Tags */
 
 body{
+    margin: 5px;
     background-color: #FBFFB9;
 }
 
@@ -23,8 +24,6 @@ th {
 }
 
 td {
-    
-    font-family: 'Dosis', sans-serif;
     font-size: 1.1rem;
 }
 
@@ -34,6 +33,10 @@ tbody {
 
 tbody tr:hover {
     background-color: #EC7357;
+}
+
+td, footer {
+    font-family: 'Dosis', sans-serif;
 }
 
 /* Classes */
@@ -55,9 +58,6 @@ tbody tr:hover {
 
 /* IDs */
 #tables {
-    margin-left: 3vmin;
-    margin-top: 2vmin;
-    margin-bottom: 2vmin;
     display: grid;
-    grid-template-columns: repeat(8,minmax(28%,40fr));
+    grid-template-columns: repeat(auto-fill,minmax(400px,80fr));
 }
