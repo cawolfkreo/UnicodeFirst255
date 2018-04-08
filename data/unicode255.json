@@ -1,0 +1,1538 @@
+﻿[
+	{
+		"DEC": "0",
+		"HEX": "0",
+		"Char": "NUL",
+		"Description": "(null)"
+	},
+	{
+		"DEC": "1",
+		"HEX": "1",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "2",
+		"HEX": "2",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "3",
+		"HEX": "3",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "4",
+		"HEX": "4",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "5",
+		"HEX": "5",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "6",
+		"HEX": "6",
+		"Char": "ACK",
+		"Description": "Acknowledge"
+	},
+	{
+		"DEC": "7",
+		"HEX": "7",
+		"Char": "BEL",
+		"Description": "Bell (makes sound)"
+	},
+	{
+		"DEC": "8",
+		"HEX": "8",
+		"Char": "BS",
+		"Description": "Backspace"
+	},
+	{
+		"DEC": "9",
+		"HEX": "9",
+		"Char": "TAB",
+		"Description": "Horizontal TAB"
+	},
+	{
+		"DEC": "10",
+		"HEX": "A",
+		"Char": "LF",
+		"Description": "Line feed or 'enter'"
+	},
+	{
+		"DEC": "11",
+		"HEX": "B",
+		"Char": "VT",
+		"Description": "Vertical TAB"
+	},
+	{
+		"DEC": "12",
+		"HEX": "C",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "13",
+		"HEX": "D",
+		"Char": "CR",
+		"Description": "Carriage return"
+	},
+	{
+		"DEC": "14",
+		"HEX": "E",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "15",
+		"HEX": "F",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "16",
+		"HEX": "10",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "17",
+		"HEX": "11",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "18",
+		"HEX": "12",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "19",
+		"HEX": "13",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "20",
+		"HEX": "14",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "21",
+		"HEX": "15",
+		"Char": "NAK",
+		"Description": "Negate Acknowledge"
+	},
+	{
+		"DEC": "22",
+		"HEX": "16",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "23",
+		"HEX": "17",
+		"Char": "ETB",
+		"Description": "End of transmision"
+	},
+	{
+		"DEC": "24",
+		"HEX": "18",
+		"Char": "CAN",
+		"Description": "Cancel"
+	},
+	{
+		"DEC": "25",
+		"HEX": "19",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "26",
+		"HEX": "1A",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "27",
+		"HEX": "1B",
+		"Char": "ESC",
+		"Description": "Escape"
+	},
+	{
+		"DEC": "28",
+		"HEX": "1C",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "29",
+		"HEX": "1D",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "30",
+		"HEX": "1E",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "31",
+		"HEX": "1F",
+		"Char": "<ctr>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "32",
+		"HEX": "20",
+		"Char": "Space",
+		"Description": "The spacebar one"
+	},
+	{
+		"DEC": "33",
+		"HEX": "21",
+		"Char": "!",
+		"Description": "Like the one in: 'aahh!'"
+	},
+	{
+		"DEC": "34",
+		"HEX": "22",
+		"Char": "\"",
+		"Description": "best quotes"
+	},
+	{
+		"DEC": "35",
+		"HEX": "23",
+		"Char": "#",
+		"Description": "#MyMakeup"
+	},
+	{
+		"DEC": "36",
+		"HEX": "24",
+		"Char": "$",
+		"Description": "all da $$$"
+	},
+	{
+		"DEC": "37",
+		"HEX": "25",
+		"Char": "%",
+		"Description": "0% tax free"
+	},
+	{
+		"DEC": "38",
+		"HEX": "26",
+		"Char": "&",
+		"Description": "Morgan&Morgan&Morgan&…"
+	},
+	{
+		"DEC": "39",
+		"HEX": "27",
+		"Char": "'",
+		"Description": "'hello world!'"
+	},
+	{
+		"DEC": "40",
+		"HEX": "28",
+		"Char": "(",
+		"Description": "x==0"
+	},
+	{
+		"DEC": "41",
+		"HEX": "29",
+		"Char": ")",
+		"Description": "{//code}else{//code}"
+	},
+	{
+		"DEC": "42",
+		"HEX": "2A",
+		"Char": "*",
+		"Description": "a*b = c"
+	},
+	{
+		"DEC": "43",
+		"HEX": "2B",
+		"Char": "+",
+		"Description": "a+b = c"
+	},
+	{
+		"DEC": "44",
+		"HEX": "2C",
+		"Char": ",",
+		"Description": "a,b,c,..."
+	},
+	{
+		"DEC": "45",
+		"HEX": "2D",
+		"Char": "-",
+		"Description": "a-b = d"
+	},
+	{
+		"DEC": "46",
+		"HEX": "2E",
+		"Char": ".",
+		"Description": "document.getElement…"
+	},
+	{
+		"DEC": "47",
+		"HEX": "2F",
+		"Char": "/",
+		"Description": "DD/MM/YYYY"
+	},
+	{
+		"DEC": "48",
+		"HEX": "30",
+		"Char": "0",
+		"Description": "zero"
+	},
+	{
+		"DEC": "49",
+		"HEX": "31",
+		"Char": "1",
+		"Description": "eins"
+	},
+	{
+		"DEC": "50",
+		"HEX": "32",
+		"Char": "2",
+		"Description": "due"
+	},
+	{
+		"DEC": "51",
+		"HEX": "33",
+		"Char": "3",
+		"Description": "tres"
+	},
+	{
+		"DEC": "52",
+		"HEX": "34",
+		"Char": "4",
+		"Description": "four"
+	},
+	{
+		"DEC": "53",
+		"HEX": "35",
+		"Char": "5",
+		"Description": "funf"
+	},
+	{
+		"DEC": "54",
+		"HEX": "36",
+		"Char": "6",
+		"Description": "sei"
+	},
+	{
+		"DEC": "55",
+		"HEX": "37",
+		"Char": "7",
+		"Description": "siete"
+	},
+	{
+		"DEC": "56",
+		"HEX": "38",
+		"Char": "8",
+		"Description": "eight"
+	},
+	{
+		"DEC": "57",
+		"HEX": "39",
+		"Char": "9",
+		"Description": "neun"
+	},
+	{
+		"DEC": "58",
+		"HEX": "3A",
+		"Char": ":",
+		"Description": ":emoji:"
+	},
+	{
+		"DEC": "59",
+		"HEX": "3B",
+		"Char": ";",
+		"Description": "essays stuff"
+	},
+	{
+		"DEC": "60",
+		"HEX": "3C",
+		"Char": "<",
+		"Description": "right crocodile"
+	},
+	{
+		"DEC": "61",
+		"HEX": "3D",
+		"Char": "=",
+		"Description": "equals"
+	},
+	{
+		"DEC": "62",
+		"HEX": "3E",
+		"Char": ">",
+		"Description": "left crocodile"
+	},
+	{
+		"DEC": "63",
+		"HEX": "3F",
+		"Char": "?",
+		"Description": "what"
+	},
+	{
+		"DEC": "64",
+		"HEX": "40",
+		"Char": "@",
+		"Description": "@starbucks with my frands"
+	},
+	{
+		"DEC": "65",
+		"HEX": "41",
+		"Char": "A",
+		"Description": "A"
+	},
+	{
+		"DEC": "66",
+		"HEX": "42",
+		"Char": "B",
+		"Description": "A"
+	},
+	{
+		"DEC": "67",
+		"HEX": "43",
+		"Char": "C",
+		"Description": "A"
+	},
+	{
+		"DEC": "68",
+		"HEX": "44",
+		"Char": "D",
+		"Description": "A"
+	},
+	{
+		"DEC": "69",
+		"HEX": "45",
+		"Char": "E",
+		"Description": "A"
+	},
+	{
+		"DEC": "70",
+		"HEX": "46",
+		"Char": "F",
+		"Description": "A"
+	},
+	{
+		"DEC": "71",
+		"HEX": "47",
+		"Char": "G",
+		"Description": "A"
+	},
+	{
+		"DEC": "72",
+		"HEX": "48",
+		"Char": "H",
+		"Description": "A"
+	},
+	{
+		"DEC": "73",
+		"HEX": "49",
+		"Char": "I",
+		"Description": "L"
+	},
+	{
+		"DEC": "74",
+		"HEX": "4A",
+		"Char": "J",
+		"Description": "P"
+	},
+	{
+		"DEC": "75",
+		"HEX": "4B",
+		"Char": "K",
+		"Description": "H"
+	},
+	{
+		"DEC": "76",
+		"HEX": "4C",
+		"Char": "L",
+		"Description": "A"
+	},
+	{
+		"DEC": "77",
+		"HEX": "4D",
+		"Char": "M",
+		"Description": "A"
+	},
+	{
+		"DEC": "78",
+		"HEX": "4E",
+		"Char": "N",
+		"Description": "A"
+	},
+	{
+		"DEC": "79",
+		"HEX": "4F",
+		"Char": "O",
+		"Description": "A"
+	},
+	{
+		"DEC": "80",
+		"HEX": "50",
+		"Char": "P",
+		"Description": "A"
+	},
+	{
+		"DEC": "81",
+		"HEX": "51",
+		"Char": "Q",
+		"Description": "B"
+	},
+	{
+		"DEC": "82",
+		"HEX": "52",
+		"Char": "R",
+		"Description": "E"
+	},
+	{
+		"DEC": "83",
+		"HEX": "53",
+		"Char": "S",
+		"Description": "E"
+	},
+	{
+		"DEC": "84",
+		"HEX": "54",
+		"Char": "T",
+		"Description": "E"
+	},
+	{
+		"DEC": "85",
+		"HEX": "55",
+		"Char": "U",
+		"Description": "E"
+	},
+	{
+		"DEC": "86",
+		"HEX": "56",
+		"Char": "V",
+		"Description": "E"
+	},
+	{
+		"DEC": "87",
+		"HEX": "57",
+		"Char": "W",
+		"Description": "E"
+	},
+	{
+		"DEC": "88",
+		"HEX": "58",
+		"Char": "X",
+		"Description": "E"
+	},
+	{
+		"DEC": "89",
+		"HEX": "59",
+		"Char": "Y",
+		"Description": "E"
+	},
+	{
+		"DEC": "90",
+		"HEX": "5A",
+		"Char": "Z",
+		"Description": "T"
+	},
+	{
+		"DEC": "91",
+		"HEX": "5B",
+		"Char": "[",
+		"Description": "arrays start"
+	},
+	{
+		"DEC": "92",
+		"HEX": "5C",
+		"Char": "\\",
+		"Description": "special "
+	},
+	{
+		"DEC": "93",
+		"HEX": "5D",
+		"Char": "]",
+		"Description": "at …"
+	},
+	{
+		"DEC": "94",
+		"HEX": "5E",
+		"Char": "^",
+		"Description": "up"
+	},
+	{
+		"DEC": "95",
+		"HEX": "5F",
+		"Char": "_",
+		"Description": "line on the ground"
+	},
+	{
+		"DEC": "96",
+		"HEX": "60",
+		"Char": "`",
+		"Description": "`ecma${number} is meh`"
+	},
+	{
+		"DEC": "97",
+		"HEX": "61",
+		"Char": "a",
+		"Description": "a"
+	},
+	{
+		"DEC": "98",
+		"HEX": "62",
+		"Char": "b",
+		"Description": "a"
+	},
+	{
+		"DEC": "99",
+		"HEX": "63",
+		"Char": "c",
+		"Description": "a"
+	},
+	{
+		"DEC": "100",
+		"HEX": "64",
+		"Char": "d",
+		"Description": "a"
+	},
+	{
+		"DEC": "101",
+		"HEX": "65",
+		"Char": "e",
+		"Description": "a"
+	},
+	{
+		"DEC": "102",
+		"HEX": "66",
+		"Char": "f",
+		"Description": "a"
+	},
+	{
+		"DEC": "103",
+		"HEX": "67",
+		"Char": "g",
+		"Description": "a"
+	},
+	{
+		"DEC": "104",
+		"HEX": "68",
+		"Char": "h",
+		"Description": "a"
+	},
+	{
+		"DEC": "105",
+		"HEX": "69",
+		"Char": "i",
+		"Description": "l"
+	},
+	{
+		"DEC": "106",
+		"HEX": "6A",
+		"Char": "j",
+		"Description": "p"
+	},
+	{
+		"DEC": "107",
+		"HEX": "6B",
+		"Char": "k",
+		"Description": "h"
+	},
+	{
+		"DEC": "108",
+		"HEX": "6C",
+		"Char": "l",
+		"Description": "a"
+	},
+	{
+		"DEC": "109",
+		"HEX": "6D",
+		"Char": "m",
+		"Description": "a"
+	},
+	{
+		"DEC": "110",
+		"HEX": "6E",
+		"Char": "n",
+		"Description": "a"
+	},
+	{
+		"DEC": "111",
+		"HEX": "6F",
+		"Char": "o",
+		"Description": "a"
+	},
+	{
+		"DEC": "112",
+		"HEX": "70",
+		"Char": "p",
+		"Description": "a"
+	},
+	{
+		"DEC": "113",
+		"HEX": "71",
+		"Char": "q",
+		"Description": "b"
+	},
+	{
+		"DEC": "114",
+		"HEX": "72",
+		"Char": "r",
+		"Description": "e"
+	},
+	{
+		"DEC": "115",
+		"HEX": "73",
+		"Char": "s",
+		"Description": "e"
+	},
+	{
+		"DEC": "116",
+		"HEX": "74",
+		"Char": "t",
+		"Description": "e"
+	},
+	{
+		"DEC": "117",
+		"HEX": "75",
+		"Char": "u",
+		"Description": "e"
+	},
+	{
+		"DEC": "118",
+		"HEX": "76",
+		"Char": "v",
+		"Description": "e"
+	},
+	{
+		"DEC": "119",
+		"HEX": "77",
+		"Char": "w",
+		"Description": "e"
+	},
+	{
+		"DEC": "120",
+		"HEX": "78",
+		"Char": "x",
+		"Description": "e"
+	},
+	{
+		"DEC": "121",
+		"HEX": "79",
+		"Char": "y",
+		"Description": "e"
+	},
+	{
+		"DEC": "122",
+		"HEX": "7A",
+		"Char": "z",
+		"Description": "t"
+	},
+	{
+		"DEC": "123",
+		"HEX": "7B",
+		"Char": "{",
+		"Description": "this goes above"
+	},
+	{
+		"DEC": "124",
+		"HEX": "7C",
+		"Char": "|",
+		"Description": "a straight rope"
+	},
+	{
+		"DEC": "125",
+		"HEX": "7D",
+		"Char": "}",
+		"Description": "the code block"
+	},
+	{
+		"DEC": "126",
+		"HEX": "7E",
+		"Char": "~",
+		"Description": "ñ"
+	},
+	{
+		"DEC": "127",
+		"HEX": "7F",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "128",
+		"HEX": "80",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "129",
+		"HEX": "81",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "130",
+		"HEX": "82",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "131",
+		"HEX": "83",
+		"Char": "NBH",
+		"Description": "No break here"
+	},
+	{
+		"DEC": "132",
+		"HEX": "84",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "133",
+		"HEX": "85",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "134",
+		"HEX": "86",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "135",
+		"HEX": "87",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "136",
+		"HEX": "88",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "137",
+		"HEX": "89",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "138",
+		"HEX": "8A",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "139",
+		"HEX": "8B",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "140",
+		"HEX": "8C",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "141",
+		"HEX": "8D",
+		"Char": "RI",
+		"Description": "Reverse line feed"
+	},
+	{
+		"DEC": "142",
+		"HEX": "8E",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "143",
+		"HEX": "8F",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "144",
+		"HEX": "90",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "145",
+		"HEX": "91",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "146",
+		"HEX": "92",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "147",
+		"HEX": "93",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "148",
+		"HEX": "94",
+		"Char": "CCH",
+		"Description": "Cancel Character"
+	},
+	{
+		"DEC": "149",
+		"HEX": "95",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "150",
+		"HEX": "96",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "151",
+		"HEX": "97",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "152",
+		"HEX": "98",
+		"Char": "SOS",
+		"Description": "Start of string"
+	},
+	{
+		"DEC": "153",
+		"HEX": "99",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "154",
+		"HEX": "9A",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "155",
+		"HEX": "9B",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "156",
+		"HEX": "9C",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "157",
+		"HEX": "9D",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "158",
+		"HEX": "9E",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "159",
+		"HEX": "9F",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "160",
+		"HEX": "A0",
+		"Char": "<ctrl>",
+		"Description": "Control character"
+	},
+	{
+		"DEC": "161",
+		"HEX": "A1",
+		"Char": "¡",
+		"Description": "like the one in: '¡aahh'"
+	},
+	{
+		"DEC": "162",
+		"HEX": "A2",
+		"Char": "¢",
+		"Description": "50 cents and Tupac"
+	},
+	{
+		"DEC": "163",
+		"HEX": "A3",
+		"Char": "£",
+		"Description": "British money"
+	},
+	{
+		"DEC": "164",
+		"HEX": "A4",
+		"Char": "¤",
+		"Description": "Any country money"
+	},
+	{
+		"DEC": "165",
+		"HEX": "A5",
+		"Char": "¥",
+		"Description": "Anime money"
+	},
+	{
+		"DEC": "166",
+		"HEX": "A6",
+		"Char": "¦",
+		"Description": "two lines, duh"
+	},
+	{
+		"DEC": "167",
+		"HEX": "A7",
+		"Char": "§",
+		"Description": "two snakes"
+	},
+	{
+		"DEC": "168",
+		"HEX": "A8",
+		"Char": "¨",
+		"Description": "to high dots"
+	},
+	{
+		"DEC": "169",
+		"HEX": "A9",
+		"Char": "©",
+		"Description": "c in a circle"
+	},
+	{
+		"DEC": "170",
+		"HEX": "AA",
+		"Char": "ª",
+		"Description": "smol a"
+	},
+	{
+		"DEC": "171",
+		"HEX": "AB",
+		"Char": "«",
+		"Description": "drive on this to gain speed"
+	},
+	{
+		"DEC": "172",
+		"HEX": "AC",
+		"Char": "¬",
+		"Description": "¬_¬"
+	},
+	{
+		"DEC": "173",
+		"HEX": "AD",
+		"Char": "­",
+		"Description": "-_-"
+	},
+	{
+		"DEC": "174",
+		"HEX": "AE",
+		"Char": "®",
+		"Description": "Rust logo"
+	},
+	{
+		"DEC": "175",
+		"HEX": "AF",
+		"Char": "¯",
+		"Description": "¯¯¯¯¯¯¯¯"
+	},
+	{
+		"DEC": "176",
+		"HEX": "B0",
+		"Char": "°",
+		"Description": "levitating o"
+	},
+	{
+		"DEC": "177",
+		"HEX": "B1",
+		"Char": "±",
+		"Description": "grave decoration"
+	},
+	{
+		"DEC": "178",
+		"HEX": "B2",
+		"Char": "²",
+		"Description": "smol 2"
+	},
+	{
+		"DEC": "179",
+		"HEX": "B3",
+		"Char": "³",
+		"Description": "smol 3"
+	},
+	{
+		"DEC": "180",
+		"HEX": "B4",
+		"Char": "´",
+		"Description": "´hello world?´"
+	},
+	{
+		"DEC": "181",
+		"HEX": "B5",
+		"Char": "µ",
+		"Description": "torrent"
+	},
+	{
+		"DEC": "182",
+		"HEX": "B6",
+		"Char": "¶",
+		"Description": "word enter"
+	},
+	{
+		"DEC": "183",
+		"HEX": "B7",
+		"Char": "·",
+		"Description": "a dot"
+	},
+	{
+		"DEC": "184",
+		"HEX": "B8",
+		"Char": "¸",
+		"Description": "weird coma"
+	},
+	{
+		"DEC": "185",
+		"HEX": "B9",
+		"Char": "¹",
+		"Description": "smol 1"
+	},
+	{
+		"DEC": "186",
+		"HEX": "BA",
+		"Char": "º",
+		"Description": "smol o"
+	},
+	{
+		"DEC": "187",
+		"HEX": "BB",
+		"Char": "»",
+		"Description": "drive on this to gain speed"
+	},
+	{
+		"DEC": "188",
+		"HEX": "BC",
+		"Char": "¼",
+		"Description": "smol 1/4"
+	},
+	{
+		"DEC": "189",
+		"HEX": "BD",
+		"Char": "½",
+		"Description": "smol 1/2"
+	},
+	{
+		"DEC": "190",
+		"HEX": "BE",
+		"Char": "¾",
+		"Description": "smol 3/4"
+	},
+	{
+		"DEC": "191",
+		"HEX": "BF",
+		"Char": "¿",
+		"Description": "what"
+	},
+	{
+		"DEC": "192",
+		"HEX": "C0",
+		"Char": "À",
+		"Description": "letters"
+	},
+	{
+		"DEC": "193",
+		"HEX": "C1",
+		"Char": "Á",
+		"Description": "that"
+	},
+	{
+		"DEC": "194",
+		"HEX": "C2",
+		"Char": "Â",
+		"Description": "have "
+	},
+	{
+		"DEC": "195",
+		"HEX": "C3",
+		"Char": "Ã",
+		"Description": "a"
+	},
+	{
+		"DEC": "196",
+		"HEX": "C4",
+		"Char": "Ä",
+		"Description": "lot"
+	},
+	{
+		"DEC": "197",
+		"HEX": "C5",
+		"Char": "Å",
+		"Description": "of"
+	},
+	{
+		"DEC": "198",
+		"HEX": "C6",
+		"Char": "Æ",
+		"Description": "accents"
+	},
+	{
+		"DEC": "199",
+		"HEX": "C7",
+		"Char": "Ç",
+		"Description": "or"
+	},
+	{
+		"DEC": "200",
+		"HEX": "C8",
+		"Char": "È",
+		"Description": "that"
+	},
+	{
+		"DEC": "201",
+		"HEX": "C9",
+		"Char": "É",
+		"Description": "are"
+	},
+	{
+		"DEC": "202",
+		"HEX": "CA",
+		"Char": "Ê",
+		"Description": "kind"
+	},
+	{
+		"DEC": "203",
+		"HEX": "CB",
+		"Char": "Ë",
+		"Description": "of"
+	},
+	{
+		"DEC": "204",
+		"HEX": "CC",
+		"Char": "Ì",
+		"Description": "weird"
+	},
+	{
+		"DEC": "205",
+		"HEX": "CD",
+		"Char": "Í",
+		"Description": "they"
+	},
+	{
+		"DEC": "206",
+		"HEX": "CE",
+		"Char": "Î",
+		"Description": "are"
+	},
+	{
+		"DEC": "207",
+		"HEX": "CF",
+		"Char": "Ï",
+		"Description": "also"
+	},
+	{
+		"DEC": "208",
+		"HEX": "D0",
+		"Char": "Ð",
+		"Description": "in"
+	},
+	{
+		"DEC": "209",
+		"HEX": "D1",
+		"Char": "Ñ",
+		"Description": "upper"
+	},
+	{
+		"DEC": "210",
+		"HEX": "D2",
+		"Char": "Ò",
+		"Description": "case"
+	},
+	{
+		"DEC": "211",
+		"HEX": "D3",
+		"Char": "Ó",
+		"Description": "and"
+	},
+	{
+		"DEC": "212",
+		"HEX": "D4",
+		"Char": "Ô",
+		"Description": "I"
+	},
+	{
+		"DEC": "213",
+		"HEX": "D5",
+		"Char": "Õ",
+		"Description": "dont"
+	},
+	{
+		"DEC": "214",
+		"HEX": "D6",
+		"Char": "Ö",
+		"Description": "know"
+	},
+	{
+		"DEC": "215",
+		"HEX": "D7",
+		"Char": "×",
+		"Description": "what"
+	},
+	{
+		"DEC": "216",
+		"HEX": "D8",
+		"Char": "Ø",
+		"Description": "else"
+	},
+	{
+		"DEC": "217",
+		"HEX": "D9",
+		"Char": "Ù",
+		"Description": "to"
+	},
+	{
+		"DEC": "218",
+		"HEX": "DA",
+		"Char": "Ú",
+		"Description": "say"
+	},
+	{
+		"DEC": "219",
+		"HEX": "DB",
+		"Char": "Û",
+		"Description": "at"
+	},
+	{
+		"DEC": "220",
+		"HEX": "DC",
+		"Char": "Ü",
+		"Description": "this"
+	},
+	{
+		"DEC": "221",
+		"HEX": "DD",
+		"Char": "Ý",
+		"Description": "point"
+	},
+	{
+		"DEC": "222",
+		"HEX": "DE",
+		"Char": "Þ",
+		"Description": "smol tongue"
+	},
+	{
+		"DEC": "223",
+		"HEX": "DF",
+		"Char": "ß",
+		"Description": "weird B"
+	},
+	{
+		"DEC": "224",
+		"HEX": "E0",
+		"Char": "à",
+		"Description": "letters"
+	},
+	{
+		"DEC": "225",
+		"HEX": "E1",
+		"Char": "á",
+		"Description": "that"
+	},
+	{
+		"DEC": "226",
+		"HEX": "E2",
+		"Char": "â",
+		"Description": "have "
+	},
+	{
+		"DEC": "227",
+		"HEX": "E3",
+		"Char": "ã",
+		"Description": "a"
+	},
+	{
+		"DEC": "228",
+		"HEX": "E4",
+		"Char": "ä",
+		"Description": "lot"
+	},
+	{
+		"DEC": "229",
+		"HEX": "E5",
+		"Char": "å",
+		"Description": "of"
+	},
+	{
+		"DEC": "230",
+		"HEX": "E6",
+		"Char": "æ",
+		"Description": "accents"
+	},
+	{
+		"DEC": "231",
+		"HEX": "E7",
+		"Char": "ç",
+		"Description": "or"
+	},
+	{
+		"DEC": "232",
+		"HEX": "E8",
+		"Char": "è",
+		"Description": "that"
+	},
+	{
+		"DEC": "233",
+		"HEX": "E9",
+		"Char": "é",
+		"Description": "are"
+	},
+	{
+		"DEC": "234",
+		"HEX": "EA",
+		"Char": "ê",
+		"Description": "kind"
+	},
+	{
+		"DEC": "235",
+		"HEX": "EB",
+		"Char": "ë",
+		"Description": "of"
+	},
+	{
+		"DEC": "236",
+		"HEX": "EC",
+		"Char": "ì",
+		"Description": "weird"
+	},
+	{
+		"DEC": "237",
+		"HEX": "ED",
+		"Char": "í",
+		"Description": "they"
+	},
+	{
+		"DEC": "238",
+		"HEX": "EE",
+		"Char": "î",
+		"Description": "are"
+	},
+	{
+		"DEC": "239",
+		"HEX": "EF",
+		"Char": "ï",
+		"Description": "also"
+	},
+	{
+		"DEC": "240",
+		"HEX": "F0",
+		"Char": "ð",
+		"Description": "in"
+	},
+	{
+		"DEC": "241",
+		"HEX": "F1",
+		"Char": "ñ",
+		"Description": "lower"
+	},
+	{
+		"DEC": "242",
+		"HEX": "F2",
+		"Char": "ò",
+		"Description": "case"
+	},
+	{
+		"DEC": "243",
+		"HEX": "F3",
+		"Char": "ó",
+		"Description": "and"
+	},
+	{
+		"DEC": "244",
+		"HEX": "F4",
+		"Char": "ô",
+		"Description": "I"
+	},
+	{
+		"DEC": "245",
+		"HEX": "F5",
+		"Char": "õ",
+		"Description": "dont"
+	},
+	{
+		"DEC": "246",
+		"HEX": "F6",
+		"Char": "ö",
+		"Description": "know"
+	},
+	{
+		"DEC": "247",
+		"HEX": "F7",
+		"Char": "÷",
+		"Description": "what"
+	},
+	{
+		"DEC": "248",
+		"HEX": "F8",
+		"Char": "ø",
+		"Description": "else"
+	},
+	{
+		"DEC": "249",
+		"HEX": "F9",
+		"Char": "ù",
+		"Description": "to"
+	},
+	{
+		"DEC": "250",
+		"HEX": "FA",
+		"Char": "ú",
+		"Description": "say"
+	},
+	{
+		"DEC": "251",
+		"HEX": "FB",
+		"Char": "û",
+		"Description": "at"
+	},
+	{
+		"DEC": "252",
+		"HEX": "FC",
+		"Char": "ü",
+		"Description": "this"
+	},
+	{
+		"DEC": "253",
+		"HEX": "FD",
+		"Char": "ý",
+		"Description": "point"
+	},
+	{
+		"DEC": "254",
+		"HEX": "FE",
+		"Char": "þ",
+		"Description": "longer tongue"
+	},
+	{
+		"DEC": "255",
+		"HEX": "FF",
+		"Char": "ÿ",
+		"Description": "dotty 'y'"
+	}
+]

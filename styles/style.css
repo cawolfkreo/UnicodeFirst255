@@ -1,0 +1,63 @@
+/* Tags */
+
+body{
+    background-color: #FBFFB9;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #754F44;
+    color: #ffffff;
+}
+
+tr {
+    border-bottom: 1px solid black;
+}
+
+th {
+    font-family: 'Bree Serif', serif;
+    font-size: 1.3rem;
+}
+
+td {
+    
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.1rem;
+}
+
+tbody {
+    background-color: #FDD692;
+}
+
+tbody tr:hover {
+    background-color: #EC7357;
+}
+
+/* Classes */
+.desc {
+    padding-right: 4vmin;
+}
+
+.hDesc {
+    text-align: left;
+}
+
+.desc, .hDesc {
+    padding-left: 1vmin;
+}
+
+.dec, .hex, .char {
+    text-align: center;
+}
+
+/* IDs */
+#tables {
+    margin-left: 3vmin;
+    margin-top: 2vmin;
+    margin-bottom: 2vmin;
+    display: grid;
+    grid-template-columns: repeat(8,minmax(28%,40fr));
+}
