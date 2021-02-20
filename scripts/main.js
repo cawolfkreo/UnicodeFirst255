@@ -4,42 +4,47 @@
 // takes a string and adds it to the div with id "tables".
 function addToTables(data) {
 	//get the div where the tables should be.
-	let tables = document.getElementById("tables");
+	const tables = document.getElementById("tables");
 	tables.innerHTML = data;
 }
 
 //makes the inner html of the body of the table
-function createBody(nextTable, caracteres){
+function createBody(nextTable, characters){
 	//this will contain the body innerHtml for the next table
 	let body = "";
 	//the start of the characters inside the array
 	let start = nextTable * 32;
 	// the las character to be in the table
-	let finish = start + 31;
+	const finish = start + 31;
 
 	//loops inside the characters the table needs from the array
-	while(start<=finish && start < caracteres.length){
+	while(start<=finish && start < characters.length){
 		//the current char to add in the table
-		const curChar = caracteres[start];
+		const curChar = characters[start];
+
 		//get the information of the current character using object destructuring
-		let {DEC, HEX, Char, Description} = curChar;
+		const { DEC, HEX, Description } = curChar;
+		let Char = curChar.Char
+
 		Char = Char.replace("<","&#60;").replace(">","&#62;");
-		body += `<tr>
-				<td class='dec'>
-				${DEC}
-				</td>
-				<td class='hex'>
-				${HEX}
-				</td>
-				<td class='char'>
-				${Char}
-				</td>
-				<td class='desc'>
-				${Description}
-				</td>
-			</tr>`;
+
+		body += (`<tr>
+			<td class='dec'>
+			${DEC}
+			</td>
+			<td class='hex'>
+			${HEX}
+			</td>
+			<td class='char'>
+			${Char}
+			</td>
+			<td class='desc'>
+			${Description}
+			</td>
+		</tr>`);
+
 		//moves to next character
-		start++;
+		++start;
 	}
 
 	//returns the inner html of the body of the table
@@ -47,10 +52,10 @@ function createBody(nextTable, caracteres){
 }
 
 //makes the inner html of the next table into the div
-function createATable(nextTable, caracteres){
+function createATable(nextTable, characters){
 	
 
-	return `<table>
+	return (`<table>
 	<thead>
 		<tr>
 			<th>DEC</th>
@@ -60,19 +65,19 @@ function createATable(nextTable, caracteres){
 		</tr>
 	</thead>
 	<tbody>
-		${createBody(nextTable, caracteres)}
+		${createBody(nextTable, characters)}
 	</tobdy>
-	</table>`;
+	</table>`);
 }
 
 
 //create the inner html for the tables.
-function createTables(num, caracteres){
+function createTables(num, characters){
 	//the inner html to add on the tables.
 	let tablas = "";
 
-	for(let i = 0; i<= num; i++){
-		tablas += createATable(i,caracteres);
+	for(let i = 0; i<= num; i++) {
+		tablas += createATable(i,characters);
 	
 	}
 	//sends the inner html for the div where the tables will be.
@@ -80,16 +85,15 @@ function createTables(num, caracteres){
 }
 
 //once the json is loaded, takes the objects and updates the content of the div
-function updateDivs(caracteres){
-	const tam = caracteres.length;
-	const numTables = tam/32 - 1; // chars from 0 to n means that n/2 -1 tables need to be created
-	window.prueba = caracteres;
-	createTables(numTables, caracteres);
+function updateDivs(characters){
+	const tam = characters.length;
+	const numTables = tam/32 - 1; // chars from 0 to n means that n/32 -1 tables need to be created.
+	createTables(numTables, characters);
 }
 
-// ruta al json.
+// route to JSON data.
 const json = "data/unicode255.json";
 fetch(json)
 	.then((data) => data.json())
-	.then((caracteres) => updateDivs(caracteres))
+	.then((characters) => updateDivs(characters))
 	.catch(error => console.log(error));
